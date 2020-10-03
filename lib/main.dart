@@ -11,7 +11,7 @@ void main() {
         ),
 
         body: Center(
-          child: Image(image: NetworkImage('https://media3.picsearch.com/is?uGsOLDBG01TB97ugRV24V_KV-YfX_kHgZoXgua9NrBc&height=226'),
+          child: Image(image: AssetImage('images/milli.jpg'),
           ),
         ),
       )
